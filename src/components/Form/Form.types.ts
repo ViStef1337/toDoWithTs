@@ -1,0 +1,1 @@
+export interface FormI {onSubmit:(query:string)=>void}
